@@ -1,4 +1,4 @@
-function CBE206_hw3_20190844()
+function hw_3()
 
     pop_size=500;
     mutation_rate=0.2;
