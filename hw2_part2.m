@@ -1,4 +1,4 @@
-function y = part2(m,N)
+function y = hw2_part2(m,N)
 %section 1
 A=zeros(N,N);
 b=zeros(N,1);
