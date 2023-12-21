@@ -1,4 +1,4 @@
-function y = CBE206_hw2_20190844_part1(N,A,b)
+function y = hw2_part1(N,A,b)
     x=zeros(N,1);
 
     for i=1:N-1
