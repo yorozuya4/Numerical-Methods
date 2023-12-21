@@ -1,4 +1,4 @@
-function monte_carlo(n_methane)
+function monte_carlo_a(n_methane)
 %%Open MFI Data
 fileId=fopen('MFI.txt','r');
 MFI=fscanf(fileId,'%g %g %g',[3 inf]);
