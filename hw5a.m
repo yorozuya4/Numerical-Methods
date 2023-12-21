@@ -1,4 +1,4 @@
-function CBE206_hw5a_20190844(n_methane)
+function monte_carlo(n_methane)
 %%Open MFI Data
 fileId=fopen('MFI.txt','r');
 MFI=fscanf(fileId,'%g %g %g',[3 inf]);
