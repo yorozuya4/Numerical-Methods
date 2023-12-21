@@ -1,4 +1,4 @@
-function hw_3()
+function genetic_algorithm()
 
     pop_size=500;
     mutation_rate=0.2;
